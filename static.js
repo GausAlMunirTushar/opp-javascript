@@ -11,7 +11,6 @@ class Animal{
         }
         return `${animal2.speed} is Faster`
     }
-    
 }
 
 const myRat = new Animal("Rat", 12)
